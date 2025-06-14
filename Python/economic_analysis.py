@@ -11,6 +11,7 @@ import pandas as pd
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+!pip install xlsxwriter 
 
 def export_analysis_to_excel(summary_df, gdp_chart_path, inflation_chart_path, filename="Economic_Report.xlsx"):
 
