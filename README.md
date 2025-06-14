@@ -19,12 +19,12 @@ python economic_analysis.py
 
 Understanding the Output
 After running the script, you will see the following:
-Console Output: A "Summary Table" will be printed directly in your terminal, showing the average GDP growth and inflation rates per country over the 2015-2024 period.
-Chart Windows: Two separate pop-up windows will appear, displaying:
-A line chart showing GDP growth trends for each country from 2015-2024.
-A bar chart comparing inflation rates across countries specifically for 2024.
-Generated Files (in the same directory as the script):
-economic_data_analysis.xlsx: An Excel file containing the summary table and both charts embedded as images.
-gdp_growth_chart.png: An image file of the GDP growth line chart.
-inflation_2024_chart.png: An image file of the 2024 inflation bar chart.
-These outputs provide a quick overview of economic performance and trends.
+1. Console Output: A "Summary Table" will be printed directly in your terminal, showing the average GDP growth and inflation rates per country over the 2015-2024 period.
+2. Chart Windows: Two separate pop-up windows will appear, displaying:
+3. A line chart showing GDP growth trends for each country from 2015-2024.
+4. A bar chart comparing inflation rates across countries specifically for 2024.
+5. Generated Files (in the same directory as the script):
+6. economic_data_analysis.xlsx: An Excel file containing the summary table and both charts embedded as images.
+6. gdp_growth_chart.png: An image file of the GDP growth line chart.
+7. inflation_2024_chart.png: An image file of the 2024 inflation bar chart.
+These outputs will provide you a quick overview of economic performance and trends.
