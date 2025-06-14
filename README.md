@@ -1,6 +1,11 @@
 # IMF-Assessment
 This repository consists of all the required files and information based on the two test questions received.
 
+There are two folders, PowerBI and Python
+
+1. PowerBI : Documentation, .pbix file
+2. Python : Excel file, economic_analysis.py
+
 [PYTHON Question]
 
 Economic Data Analysis Script
