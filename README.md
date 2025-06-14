@@ -2,6 +2,7 @@
 This repository consists of all the required files and information based on the two test questions received.
 
 [PYTHON Question]
+
 Economic Data Analysis Script
 This Python script processes economic data (GDP growth and inflation) for several countries, generates analytical charts, and exports all findings to an Excel file.
 Prerequisites & Installation
