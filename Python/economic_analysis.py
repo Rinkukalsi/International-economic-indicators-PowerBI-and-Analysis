@@ -23,8 +23,6 @@ def export_analysis_to_excel(summary_df, gdp_chart_path, inflation_chart_path, f
         workbook = writer.book
         worksheet = writer.sheets['Summary Report']
 
-
-
         # Adjust the column width for better readability.
         worksheet.set_column('A:C', 25)
 
@@ -35,7 +33,7 @@ def export_analysis_to_excel(summary_df, gdp_chart_path, inflation_chart_path, f
         # Insert the inflation chart below the first chart
         worksheet.insert_image('E28', inflation_chart_path)
 
-    print(f"✅ Report successfully exported to {filename}")
+    print(f" Report successfully exported to {filename}")
 
 df = pd.read_excel(r'/content/WEO_Data.xlsx') #converting excel into pandas dataframe
 
