@@ -59,15 +59,11 @@ pip install -r requirements.txt
 
 After running the script, the following will be generated:
 
-- ✅ **Console Output**: A summary table displaying average GDP growth and inflation rates per country.
-- 📈 **Charts**:
+-  **Console Output**: A summary table displaying average GDP growth and inflation rates per country.
+-  **Charts**:
   - `gdp_growth_chart.png`: Line chart showing GDP growth trends (2015–2024).
   - `inflation_2024_chart.png`: Bar chart comparing 2024 inflation rates across countries.
-- 📊 **Excel Report**:
+-  **Excel Report**:
   - `economic_data_analysis.xlsx`: Contains the summary table and both charts embedded.
 
 These outputs provide a concise economic snapshot to support analysis and reporting needs.
-
----
-
-Feel free to open an issue if you encounter any problem running the code or viewing the dashboards.
