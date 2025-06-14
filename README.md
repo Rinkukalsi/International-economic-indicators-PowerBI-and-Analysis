@@ -12,7 +12,8 @@ Economic Data Analysis Script
 This Python script processes economic data (GDP growth and inflation) for several countries, generates analytical charts, and exports all findings to an Excel file.
 Prerequisites & Installation
 To run this script, you need Python installed along with the following libraries:
-pip install pandas matplotlib seaborn xlsxwriter
+Please install requiremnets by running command:
+    pip install -r requirements.txt
 
 How to Run
 Save the provided Python code as economic_analysis.py on your computer.
