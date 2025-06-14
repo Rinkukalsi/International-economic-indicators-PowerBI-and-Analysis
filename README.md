@@ -10,13 +10,11 @@ IMF-Assessment/
 │
 ├── PowerBI/                   # Power BI Dashboard and Documentation
 │   ├── IMF_Dashboard.pbix
-│   └── README_PowerBI.md      # Approach, challenges, and user guidance
+│   └── Documentation PowerBI.md      # Approach, challenges, and user guidance
 │
 ├── Python/                    # Python Data Processing and Visualization
 │   ├── WEO_Data.xlsx
 │   ├── economic_analysis.py
-│   ├── gdp_growth_chart.png
-│   ├── inflation_2024_chart.png
 │   ├── economic_data_analysis.xlsx
 │   └── requirements.txt
 ```
